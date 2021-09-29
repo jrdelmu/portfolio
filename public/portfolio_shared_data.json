@@ -11,7 +11,7 @@
         {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/jovincentdelmundo/",
-          "class": "fab fa-instagram"
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "joviProfile.jpg"
@@ -30,7 +30,7 @@
         },
         {
           "name": "React",
-          "class": "devicon-angularjs-plain",
+          "class": "devicon-react-plain",
           "level": "80"
         },
         {
